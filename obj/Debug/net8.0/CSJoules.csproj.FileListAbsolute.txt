@@ -1,0 +1,15 @@
+/home/rgukt24q4/Documents/CSJoules/bin/Debug/net8.0/CSJoules
+/home/rgukt24q4/Documents/CSJoules/bin/Debug/net8.0/CSJoules.deps.json
+/home/rgukt24q4/Documents/CSJoules/bin/Debug/net8.0/CSJoules.runtimeconfig.json
+/home/rgukt24q4/Documents/CSJoules/bin/Debug/net8.0/CSJoules.dll
+/home/rgukt24q4/Documents/CSJoules/bin/Debug/net8.0/CSJoules.pdb
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.GeneratedMSBuildEditorConfig.editorconfig
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.AssemblyInfoInputs.cache
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.AssemblyInfo.cs
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.csproj.CoreCompileInputs.cache
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.sourcelink.json
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.dll
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/refint/CSJoules.dll
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.pdb
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/CSJoules.genruntimeconfig.cache
+/home/rgukt24q4/Documents/CSJoules/obj/Debug/net8.0/ref/CSJoules.dll

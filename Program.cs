@@ -11,7 +11,9 @@ namespace CSharp_Joules
 
             static void Test_Snippet(){
                 for(int i=0;i<1000000;i++){
-
+                    for(int j=0;j<10000;j++){
+                        
+                    }
                 }
             }
 
